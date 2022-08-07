@@ -1,1 +1,1 @@
-[](https://jinsup9k.github.io/)
+[블로그](https://jinsup9k.github.io/)
