@@ -1,1 +1,1 @@
-[블로그](https://jinsup9k.github.io/)였던것
+[블로그](https://jinsubox.github.io/)였던것
