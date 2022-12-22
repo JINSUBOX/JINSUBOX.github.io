@@ -1,0 +1,6 @@
+_site
+.sass-cache
+vendor
+new.sh
+node_modules/
+pacakge-lock.json
